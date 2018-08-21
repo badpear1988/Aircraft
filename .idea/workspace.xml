@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e2579c5-83d8-4cac-a784-a9df8ad636ae" name="Default" comment="" />
+    <list default="true" id="1e2579c5-83d8-4cac-a784-a9df8ad636ae" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/cs/example/StaAangleEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/cs/example/StaAangleEg.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toMs.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="toMs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/cs/cal/toMs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -69,7 +72,7 @@
       <file leaf-file-name="CalAngle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/cs/cal/CalAngle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-36">
+            <state relative-caret-position="-1062">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -87,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StaAangleEg.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StaAangleEg.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/cs/example/StaAangleEg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+            <state relative-caret-position="388">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,7 +105,7 @@
       <file leaf-file-name="StaSpeedEg.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/cs/example/StaSpeedEg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="144">
               <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -132,6 +135,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -146,11 +153,11 @@
         <option value="$PROJECT_DIR$/src/cn/cs/cal/CalSpeed.java" />
         <option value="$PROJECT_DIR$/src/cn/cs/example/StaSpeedEg.java" />
         <option value="$PROJECT_DIR$/src/cn/cs/entity/Angle.java" />
-        <option value="$PROJECT_DIR$/src/cn/cs/example/StaAangleEg.java" />
         <option value="$PROJECT_DIR$/src/cn/cs/example/StaTrackEg.java" />
         <option value="$PROJECT_DIR$/src/cn/cs/cal/CalTrack.java" />
         <option value="$PROJECT_DIR$/src/cn/cs/cal/CalAngle.java" />
         <option value="$PROJECT_DIR$/src/cn/cs/example/AngleEg.java" />
+        <option value="$PROJECT_DIR$/src/cn/cs/example/StaAangleEg.java" />
       </list>
     </option>
   </component>
@@ -169,6 +176,7 @@
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -183,38 +191,6 @@
               <item name="Aircraft" type="b2602c69:ProjectViewProjectNode" />
               <item name="Aircraft" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Aircraft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aircraft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aircraft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aircraft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aircraft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aircraft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cs" type="462c0819:PsiDirectoryNode" />
-              <item name="cal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aircraft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aircraft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cs" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aircraft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aircraft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cs" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -225,8 +201,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -372,12 +350,12 @@
       <updated>1534771380132</updated>
       <workItem from="1534771382928" duration="4731000" />
       <workItem from="1534815566001" duration="23458000" />
-      <workItem from="1534849919193" duration="521000" />
+      <workItem from="1534849919193" duration="1600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28710000" />
+    <option name="totallyTimeSpent" value="29789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -391,7 +369,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24226804" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -572,26 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cs/example/StaAangleEg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cs/example/StaSpeedEg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/cs/cal/CalDis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -626,20 +584,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cs/cal/CalAngle.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/cs/example/DisEg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="252">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cs/cal/toMs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cs/example/DisEg.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/cs/cal/CalAngle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="69" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="69" />
+        <state relative-caret-position="-1062">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -653,10 +621,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cs/cal/toMs.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/cs/example/StaSpeedEg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="144">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cs/example/StaAangleEg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
