@@ -26,6 +26,5 @@ public class StaAangleEg {
         for(int i = 0;i < angleList.size();i ++){
             System.out.println(angleList.get(i).getAngle() + "°");
         }
-        System.out.println("111");
     }
 }
